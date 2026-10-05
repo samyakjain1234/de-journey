@@ -3,7 +3,7 @@
 My goal: go from SQL-only to a job-ready AI Data Engineer in 90 days
 by building real projects with Python, Spark, Azure, Kafka, and GenAI/RAG.
 
-**Started:** <05-10-2026>
+**Started:** 05-OCT-2026
 
 ## Roadmap
 
